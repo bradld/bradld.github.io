@@ -14,5 +14,11 @@ Hello World!
   <a href="https://sports.onelink.me/595412233/nbaleaguepasspreview">shortlink</a>
   <br>
   <a href="https://sports.onelink.me/595412233?pid=LandingPage&c=US_Engagement_YMktg_NBALeaguePass&af_sub1=Engagement&af_sub2=US_YMktg&af_sub5=EarlBirdPassPreview_Static&af_dp=ysportacular%3A%2F%2Fv2%2Flivehub%3FchannelId%3Dnba&af_web_dp=https%3A%2F%2Fsports.yahoo.com%2Fvideos%2Fthe-bounce">longlink</a>
+  
+  
+  
+  <a href="http://liquidpch.go2cloud.org/aff_c?offer_id=6162&aff_id=1&source=testoffer&aff_sub=testoffer">iOS</a>
+  
+<a href="http://liquidpch.go2cloud.org/aff_c?offer_id=6164&aff_id=1&source=testoffer&aff_sub=testoffer">android</a>
 </body>
 </html>
