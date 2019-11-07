@@ -22,7 +22,8 @@ Hello World!
 <a href="http://liquidpch.go2cloud.org/aff_c?offer_id=6164&aff_id=1&source=testoffer&aff_sub=testoffer">android</a>
 <br>
 <br>
-<a href="grab://open?screenType=CONSENT&webviewUrl=https%3A%2F%2Fapi.grab.com%2Fgrabid%2Fv1%2Foauth2%2Fgrablet%2Fconfig%3Fclient_id%3D43235be85f5849b39ded901e4bda14fc%26redirect_url%3Dhttps%3A%2F%2Fgrab.hooq.tv%2Fsetup">scheme</a>
+grab://open?screenType=CONSENT&webviewUrl=https%3A%2F%2Fapi.grab.com%2Fgrabid%2Fv1%2Foauth2%2Fgrablet%2Fconfig%3Fclient_id%3D43235be85f5849b39ded901e4bda14fc%26redirect_url%3Dhttps%3A%2F%2Fgrab.hooq.tv%2Fsetup
+
 <br>
 <a href="https://grab.onelink.me/2695613898?pid=test&c=yc&is_retargeting=true&af_dp=grab%3A%2F%2Fopen%3FscreenType%3DCONSENT%26webviewUrl%3Dhttps%3A%2F%2Fapi.grab.com%2Fgrabid%2Fv1%2Foauth2%2Fgrablet%2Fconfig%3Fclient_id%3D43235be85f5849b39ded901e4bda14fc%26redirect_url%3Dhttps%3A%2F%2Fgrab.hooq.tv%2Fsetup&af_force_deeplink=true&af_web_dp=https%3A%2F%2Fwww.grab.com%2F&af_ios_url=https%3A%2F%2Fwww.grab.com%2F">onelink</a>
 <br>
