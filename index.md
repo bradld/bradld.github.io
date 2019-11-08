@@ -31,5 +31,8 @@ grab://open?screenType=CONSENT&webviewUrl=https%3A%2F%2Fapi.grab.com%2Fgrabid%2F
 <br>
 
 <a href="https://hov.onelink.me/821432192?pid=pmqa&c=z_test3009_6s&af_dp=heartofvegas%3A%2F%2F&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fheart_of_vegas&promotion_code=beacon&af_force_deeplink=true">heartofvegas</a>
+<br>
+<br>
+<a href="https://app.aflink.com/com.gen.workoutme?c=test_c&af_c_id=test_c_id&af_siteid=test_siteid&af_adset=test_adset&af_ad=test_ad&af_ad_id=test_ad_id&af_adset_id=test_adset_id&af_ad_type=test_ad_type&pid=bytedance_int&af_click_lookback=7d&clickid=test_clickid&android_id=42ffd14fc5011c0&imei=&idfa=&os=&redirect=false&af_ip=&af_ua=&af_lang=zh-Hans-CN">testlink</a>
 </body>
 </html>
