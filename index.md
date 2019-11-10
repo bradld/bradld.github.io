@@ -34,5 +34,8 @@ grab://open?screenType=CONSENT&webviewUrl=https%3A%2F%2Fapi.grab.com%2Fgrabid%2F
 <br>
 <br>
 <a href="https://app.aflink.com/com.gen.workoutme?c=test_c&af_c_id=test_c_id&af_siteid=test_siteid&af_adset=test_adset&af_ad=test_ad&af_ad_id=test_ad_id&af_adset_id=test_adset_id&af_ad_type=test_ad_type&pid=bytedance_int&af_click_lookback=7d&clickid=test_clickid&android_id=42ffd14fc5011c0&imei=&idfa=&os=&redirect=false&af_ip=&af_ua=&af_lang=zh-Hans-CN">testlink</a>
+<br>
+<br>
+<a href="https://app.appsflyer.com/id1392651594?af_ad_id=test_ad_id&af_c_id=724699091607973108&pid=reddit_int&c=AdSet1&af_ad=My_Ad&af_adset_id=724699096277001333&idfa=7473FD34-89C2-4A11-9CBC-CC520D607EE7&cachebuster=test_cachebuster&redirect=false">reddit test</a>
 </body>
 </html>
