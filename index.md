@@ -37,5 +37,9 @@ grab://open?screenType=CONSENT&webviewUrl=https%3A%2F%2Fapi.grab.com%2Fgrabid%2F
 <br>
 <br>
 <a href="https://app.appsflyer.com/id1392651594?af_ad_id=test_ad_id&af_c_id=724699091607973108&pid=reddit_int&c=AdSet1&af_ad=My_Ad&af_adset_id=724699096277001333&idfa=7473FD34-89C2-4A11-9CBC-CC520D607EE7&cachebuster=test_cachebuster&redirect=false">reddit test</a>
+<br>
+<br>
+<a href="https://app.appsflyer.com/id1420049759?pid=yandexdirect_int&c=yandex_search&af_c_id=38170268&af_adset=ios_test&af_adset_id=3573836715&af_ad=test&af_ad_type=search_text&af_channel=test&af_cost_currency=EUR&af_click_lookback=7d&clickid=test&ios_ifa=test&af_siteid=test">https://app.appsflyer.com/id1420049759?pid=yandexdirect_int&c=yandex_search&af_c_id=38170268&af_adset=ios_test&af_adset_id=3573836715&af_ad=test&af_ad_type=search_text&af_channel=test&af_cost_currency=EUR&af_click_lookback=7d&clickid=test&ios_ifa=test&af_siteid=test</a>
+<br>
 </body>
 </html>
