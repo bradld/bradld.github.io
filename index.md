@@ -42,8 +42,8 @@ grab://open?screenType=CONSENT&webviewUrl=https%3A%2F%2Fapi.grab.com%2Fgrabid%2F
 <a href="https://app.appsflyer.com/id1420049759?pid=yandexdirect_int&c=yandex_search&af_c_id=38170268&af_adset=ios_test&af_adset_id=3573836715&af_ad=test&af_ad_type=search_text&af_channel=test&af_cost_currency=EUR&af_click_lookback=7d&clickid=test&ios_ifa=test&af_siteid=test">https://app.appsflyer.com/id1420049759?pid=yandexdirect_int&c=yandex_search&af_c_id=38170268&af_adset=ios_test&af_adset_id=3573836715&af_ad=test&af_ad_type=search_text&af_channel=test&af_cost_currency=EUR&af_click_lookback=7d&clickid=test&ios_ifa=test&af_siteid=test</a>
 <br>
 
-
-https://galabingo.onelink.me/DtWQ?pid=praveentesting&af_sub1=4813689&af_sub2=PraveenBTAG&af_sub4=PraveenTDPEH&idfa=
+<a href="https://dbradleytestapp.onelink.me/rijj/android2">onelink deeplink</a>
+<br>
 
 </body>
 </html>
