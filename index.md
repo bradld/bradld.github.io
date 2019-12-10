@@ -3,46 +3,8 @@
 </head>
 <body>
 Hello World!
-  
-  <a href="https://babylonbytelushealth.onelink.me/b68S/574f041c">shortlink</a>
   <br>
-  <a href="https://babylonbytelushealth.onelink.me/b68S?pid=TEST&c=TEST&af_dp=babylonbytelushealth%3A%2F%2Fconsult&af_web_dp=https%3A%2F%2Fwww.telus.com%2Fen%2Fbc%2Fhealth%2Fpersonal%2Fbabylon%3FINTCMP%3DVAN_babylon">longlink</a>
-  
-  <a href="http://wmadv.go2cloud.org/aff_c?offer_id=12319504&aff_id=2&source=testoffer&aff_sub=testoffer">http://wmadv.go2cloud.org/aff_c?offer_id=12319504&aff_id=2&source=testoffer&aff_sub=testoffer</a>
-  
-  <br>
-  <a href="https://sports.onelink.me/595412233/nbaleaguepasspreview">shortlink</a>
-  <br>
-  <a href="https://sports.onelink.me/595412233?pid=LandingPage&c=US_Engagement_YMktg_NBALeaguePass&af_sub1=Engagement&af_sub2=US_YMktg&af_sub5=EarlBirdPassPreview_Static&af_dp=ysportacular%3A%2F%2Fv2%2Flivehub%3FchannelId%3Dnba&af_web_dp=https%3A%2F%2Fsports.yahoo.com%2Fvideos%2Fthe-bounce">longlink</a>
-  
-  
-  
-  <a href="http://liquidpch.go2cloud.org/aff_c?offer_id=6162&aff_id=1&source=testoffer&aff_sub=testoffer">iOS</a>
-  
-<a href="http://liquidpch.go2cloud.org/aff_c?offer_id=6164&aff_id=1&source=testoffer&aff_sub=testoffer">android</a>
-<br>
-<br>
-grab://open?screenType=CONSENT&webviewUrl=https%3A%2F%2Fapi.grab.com%2Fgrabid%2Fv1%2Foauth2%2Fgrablet%2Fconfig%3Fclient_id%3D43235be85f5849b39ded901e4bda14fc%26redirect_url%3Dhttps%3A%2F%2Fgrab.hooq.tv%2Fsetup
-
-grab://open?screenType=CONSENT&webviewUrl=https%3A%2F%2Fapi.grab.com%2Fgrabid%2Fv1%2Foauth2%2Fgrablet%2Fconfig%3Fclient_id%3D43235be85f5849b39ded901e4bda14fc%26redirect_url%3Dhttps%3A%2F%2Fgrab.hooq.tv%2Fsetup
-
-<br>
-<a href="https://grab.onelink.me/2695613898?pid=test&c=yc&is_retargeting=true&af_dp=grab%3A%2F%2Fopen%3FscreenType%3DCONSENT%26webviewUrl%3Dhttps%3A%2F%2Fapi.grab.com%2Fgrabid%2Fv1%2Foauth2%2Fgrablet%2Fconfig%3Fclient_id%3D43235be85f5849b39ded901e4bda14fc%26redirect_url%3Dhttps%3A%2F%2Fgrab.hooq.tv%2Fsetup&af_force_deeplink=true&af_web_dp=https%3A%2F%2Fwww.grab.com%2F&af_ios_url=https%3A%2F%2Fwww.grab.com%2F">onelink</a>
-<br>
-
-<a href="https://hov.onelink.me/821432192?pid=pmqa&c=z_test3009_6s&af_dp=heartofvegas%3A%2F%2F&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fheart_of_vegas&promotion_code=beacon&af_force_deeplink=true">heartofvegas</a>
-<br>
-<br>
-<a href="https://app.aflink.com/com.gen.workoutme?c=test_c&af_c_id=test_c_id&af_siteid=test_siteid&af_adset=test_adset&af_ad=test_ad&af_ad_id=test_ad_id&af_adset_id=test_adset_id&af_ad_type=test_ad_type&pid=bytedance_int&af_click_lookback=7d&clickid=test_clickid&android_id=42ffd14fc5011c0&imei=&idfa=&os=&redirect=false&af_ip=&af_ua=&af_lang=zh-Hans-CN">testlink</a>
-<br>
-<br>
-<a href="https://app.appsflyer.com/id1392651594?af_ad_id=test_ad_id&af_c_id=724699091607973108&pid=reddit_int&c=AdSet1&af_ad=My_Ad&af_adset_id=724699096277001333&idfa=7473FD34-89C2-4A11-9CBC-CC520D607EE7&cachebuster=test_cachebuster&redirect=false">reddit test</a>
-<br>
-<br>
-<a href="https://app.appsflyer.com/id1420049759?pid=yandexdirect_int&c=yandex_search&af_c_id=38170268&af_adset=ios_test&af_adset_id=3573836715&af_ad=test&af_ad_type=search_text&af_channel=test&af_cost_currency=EUR&af_click_lookback=7d&clickid=test&ios_ifa=test&af_siteid=test">https://app.appsflyer.com/id1420049759?pid=yandexdirect_int&c=yandex_search&af_c_id=38170268&af_adset=ios_test&af_adset_id=3573836715&af_ad=test&af_ad_type=search_text&af_channel=test&af_cost_currency=EUR&af_click_lookback=7d&clickid=test&ios_ifa=test&af_siteid=test</a>
-<br>
-
-<a href="https://dbradleytestapp.onelink.me/rijj/android2">onelink deeplink</a>
+<a href="https://magazineluiza.onelink.me/589508454/c74c42fd">test onelink</a>
 <br>
 
 </body>
