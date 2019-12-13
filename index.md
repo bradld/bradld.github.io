@@ -10,5 +10,8 @@ Hello World!
   <br>
   <a href="https://app.appsflyer.com/com.smartsheet.android?pid=AppsFlyer_Test&c=Test&af_dp=https%3A%2F%2Fapp.smartsheet.com%2Ffavorites&af_force_dp=true&is_retargeting=true&advertising_id=3ac8ea57-a963-499e-a493-82dffd445218">retargeting test</a>
   <br>
+  
+  <a href="https://app.smartsheet.com/favorites">smartsheets direct deep link test</a>
+  <br>
 </body>
 </html>
