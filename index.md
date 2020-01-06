@@ -13,5 +13,6 @@ Hello World!
   
   <a href="https://app.smartsheet.com/favorites">smartsheets direct deep link test</a>
   <br>
+  <a href="https://magisto.onelink.me/xWjU/2ea60c1c">onelink test</a>
 </body>
 </html>
