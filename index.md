@@ -14,5 +14,9 @@ Hello World!
   <a href="https://app.smartsheet.com/favorites">smartsheets direct deep link test</a>
   <br>
   <a href="https://magisto.onelink.me/xWjU/2ea60c1c">onelink test</a>
+  
+ <br>
+ <a href="https://app.appsflyer.com/com.gelato.Optimalprint?pid=affiliatewindow_int&af_click_lookback=7d&cks=test_cks&redirect=false">AWIN</a>
+ <br>
 </body>
 </html>
