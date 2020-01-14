@@ -11,7 +11,7 @@ Hello World!
   <a href="https://app.appsflyer.com/com.smartsheet.android?pid=AppsFlyer_Test&c=Test&af_dp=https%3A%2F%2Fapp.smartsheet.com%2Ffavorites&af_force_dp=true&is_retargeting=true&advertising_id=3ac8ea57-a963-499e-a493-82dffd445218">retargeting test</a>
   <br>
   
-<a href="https://app.appsflyer.com/id551367321?af_siteid=test_siteid&af_cost_currency=USD&af_cost_value=0.00&af_sub_siteid=test_sub_siteid&af_sub1=test_sub1&af_c_id=test_c_id&pid=taptica_int&af_click_lookback=7d&tt_cid=test_tt_cid&tt_adv_id=test_tt_adv_id&idfa=E4BE1A57-6334-4B94-A006-34CC148561A7&sha1_idfa=F46C7BD3822A8A4F0F25B3639F14B02B5681B694&mac=&sha1_mac=&clickid=test_clickid&af_ip=&af_ua=&af_lang=&is_incentivized=false&c=MCSPODIA024_AlwaysOn_Acquisition_Network_Taptica_RON_ES_iOS_Banners_MultipleSizes&af_adset=Taptica_eDreams_ES_iOS&af_ad=ODIA007_Discount_WestminsterBridge_Offwiththecode_Getiton_Spanish_StaticBanner_NA_Landscape_MultipleSizes">test click</a>
+<a href="https://app.appsflyer.com/id551367321?af_siteid=test_siteid&af_cost_currency=USD&af_cost_value=0.00&af_sub_siteid=test_sub_siteid&af_sub1=test_sub1&af_c_id=test_c_id&pid=taptica_int&af_click_lookback=7d&tt_cid=test_tt_cid&tt_adv_id=test_tt_adv_id&idfa=E4BE1A57-6334-4B94-A006-34CC148561A7&sha1_idfa=F46C7BD3822A8A4F0F25B3639F14B02B5681B694&mac=&sha1_mac=&clickid=test_clickid&af_ip=&af_ua=&af_lang=&is_incentivized=false&c=MCSPODIA024_AlwaysOn_Acquisition_Network_Taptica_RON_ES_iOS_Banners_MultipleSizes&af_adset=Taptica_eDreams_ES_iOS&af_ad=ODIA007_Discount_WestminsterBridge_Offwiththecode_Getiton_Spanish_StaticBanner_NA_Landscape_MultipleSizes">test click2</a>
 <br>
 </body>
 </html>
