@@ -4,7 +4,7 @@
 <body>
 Hello World!
 <br>
-<a href="https://ulabox.onelink.me/m9Ev/ab81d135">test click</a>
+<a href="https://monsterlegends.onelink.me/1933036881/giftlinkstest">test click</a>
 <br>
 </body>
 </html>
