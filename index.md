@@ -3,6 +3,6 @@
 
 </head>
 <body>
-  <a href="http://app.appsflyer.com/com.appsflyer.dbradleytestapp?pid=adobe_test">http://app.appsflyer.com/com.appsflyer.dbradleytestapp?pid=adobe_test</a>
+  <a href="https://pinna-fm.onelink.me/L0Gi?pid=Classroom&c=ClassLogin&af_web_dp=https://account-stage.pinna.fm/student&classroom=XNG9M4&route=ClassLogin">https://pinna-fm.onelink.me/L0Gi?pid=Classroom&c=ClassLogin&af_web_dp=https://account-stage.pinna.fm/student&classroom=XNG9M4&route=ClassLogin</a>
 </body>
 </html>
