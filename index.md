@@ -2,6 +2,6 @@
 <head>
 </head>
 <body>
- <a href="https://sydneyapp.onelink.me/lS55/278250c1">https://sydneyapp.onelink.me/lS55/278250c1</a>
+ <a href="https://tinkoffbank.onelink.me/1923863684/p68nyypq">https://tinkoffbank.onelink.me/1923863684/p68nyypq</a>
 </body>
 </html>
