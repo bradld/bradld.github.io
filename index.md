@@ -2,6 +2,6 @@
 <head>
 </head>
 <body>
- <a href="https://tinkoffbank.onelink.me/1923863684/p68nyypq">https://tinkoffbank.onelink.me/1923863684/p68nyypq</a>
+ <a href="https://ticktick.com/oauth/authorize?client_id=hjvDkCVa7x54ufR07W&scope=tasks:read&state=state&redirect_uri=https://bradld.github.io/&response_type=code">https://ticktick.com/oauth/authorize?client_id=hjvDkCVa7x54ufR07W&scope=tasks:read&state=state&redirect_uri=https://bradld.github.io/&response_type=code</a>
 </body>
 </html>
